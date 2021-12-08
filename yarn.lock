@@ -5669,6 +5669,20 @@
     "lodash" "^4.17.21"
     "node-fetch" "^2.6.6"
 
+"gatsby-transformer-sharp@^4.3.0":
+  "integrity" "sha512-GKIYnbwAvMA8grjDAQIajTtPMHzhYdA1FPfFX6SjEotYRUMpzeC/RXXa/8UoNZEPtNYUk5ghE78Y3/YvmKZuSA=="
+  "resolved" "https://registry.npmjs.org/gatsby-transformer-sharp/-/gatsby-transformer-sharp-4.3.0.tgz"
+  "version" "4.3.0"
+  dependencies:
+    "@babel/runtime" "^7.15.4"
+    "bluebird" "^3.7.2"
+    "common-tags" "^1.8.0"
+    "fs-extra" "^10.0.0"
+    "potrace" "^2.1.8"
+    "probe-image-size" "^6.0.0"
+    "semver" "^7.3.5"
+    "sharp" "^0.29.2"
+
 "gatsby-worker@^1.3.0":
   "integrity" "sha512-glhWpxeLriHKFoOe4xtoForvua9DCSyYGTjJl7nI+d0f22hcAvue5jepFEfJvpQg8JdoDBS+IO2ANKJ88P5jkA=="
   "resolved" "https://registry.npmjs.org/gatsby-worker/-/gatsby-worker-1.3.0.tgz"
